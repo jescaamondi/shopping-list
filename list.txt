@@ -6,3 +6,5 @@ Popcon
 Chocolate
 cookies
 bubblegum
+sodas
+cocacola
