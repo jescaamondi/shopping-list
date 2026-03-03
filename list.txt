@@ -1,8 +1,6 @@
-Crisps
-Biscuits
-Chevda
-Sweets
-Popcon
-Chocolate
-cookies
-bubblegum
+plates
+spoons
+cups
+cooking pots
+frying pans
+cooking sticks
